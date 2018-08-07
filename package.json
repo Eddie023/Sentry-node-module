@@ -1,0 +1,23 @@
+{
+  "name": "sentry-node-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie023/Sentry-node-module.git"
+  },
+  "author": "manish chaulagain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eddie023/Sentry-node-module/issues"
+  },
+  "homepage": "https://github.com/Eddie023/Sentry-node-module#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
