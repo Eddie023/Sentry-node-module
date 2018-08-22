@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Eddie023/Sentry-node-module#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "jsonwebtoken": "^8.3.0"
+    "jsonwebtoken": "^8.3.0",
+    "serialize-error": "^2.1.0"
   }
 }

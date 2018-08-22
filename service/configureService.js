@@ -6,6 +6,7 @@ async function createLog(key, error) {
     unique_key: key,
     error: error
   };
+
   const respond = await https.post("logs", data);
 
   return respond;
